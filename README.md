@@ -1,2 +1,2 @@
 # php-main
-a startup file that can be used for all php projects
+startup files that can be used for all php projects
